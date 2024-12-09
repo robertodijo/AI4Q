@@ -1,3 +1,4 @@
+2024-12-09 Fork
 ## Artificial Intelligence and Machine Learning For Quantum Technologies
 by **[Mario Krenn](https://mpl.mpg.de/research-at-mpl/independent-research-groups/krenn-research-group/), Jonas Landgraf, Thomas Foesel, [Florian Marquardt](https://mpl.mpg.de/divisions/marquardt-division)**\
 Perspective Paper: [arXiv:2208.03836 (2022)](https://arxiv.org/abs/2208.03836)\
